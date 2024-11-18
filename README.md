@@ -3,4 +3,4 @@
 
  Repositório criado durante uma aula ao vivo
 
- Essa linha alterei direto no site giyhub
+ Essa linha alterei direto no site github
